@@ -1,4 +1,6 @@
 # tangram_solve
+this method is not universially compatible for all inputs, but most inputs can be solved.
+此方法并不能求解所有情况的输入，但大部分输入都可以被快速求解。
 ## 文件架构
 - tangram_solve文件夹中是方案二的python代码和ui界面的设计代码；方案二是ui可执行程序所使用的方案
 - tangram_solve_contour文件夹中是方案一的python代码，可运行game_class.py查看效果
